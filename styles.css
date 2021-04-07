@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #143F6B;
+  background-color: #0ee2d8;
   margin: 0;
   min-height: 100vh;
   display: flex;
@@ -41,3 +41,4 @@ body {
 .black.active {
   background-color: #333;
 }
+
